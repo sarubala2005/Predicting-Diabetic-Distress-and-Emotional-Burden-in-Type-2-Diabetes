@@ -6,7 +6,6 @@ This project focuses on predicting diabetic distress and emotional burden in pat
 
 The system analyzes healthcare and emotional factors to identify distress patterns and generate predictive insights that can support healthcare professionals in improving patient care and emotional well-being.
 
----
 
 ## ❗ Problem Statement
 
@@ -18,7 +17,7 @@ This project aims to:
 - Build predictive machine learning models
 - Generate healthcare insights
 
----
+
 
 ## 🎯 Objectives
 
@@ -29,7 +28,7 @@ This project aims to:
 - Predict diabetic distress levels
 - Generate meaningful healthcare insights
 
----
+
 
 ## 🛠️ Technologies Used
 
@@ -43,7 +42,6 @@ This project aims to:
 | Scikit-learn | Machine Learning |
 | Jupyter Notebook | Development Environment |
 
----
 
 ## 📂 Dataset Information
 
@@ -59,7 +57,6 @@ The dataset contains healthcare and emotional information such as:
 
 The dataset was cleaned and processed to identify emotional distress patterns among diabetic patients.
 
----
 
 ## 🔄 Project Workflow
 
@@ -72,7 +69,6 @@ The dataset was cleaned and processed to identify emotional distress patterns am
 7. Model Evaluation
 8. Prediction and Insights
 
----
 
 ## 📊 Exploratory Data Analysis (EDA)
 
@@ -92,7 +88,6 @@ EDA was performed to understand the dataset and identify meaningful patterns.
 - Pie Charts
 - Correlation Matrix
 
----
 
 ## 🤖 Machine Learning
 
@@ -109,7 +104,6 @@ EDA was performed to understand the dataset and identify meaningful patterns.
 - Pandas
 - NumPy
 
----
 
 ## ✨ Key Features
 
@@ -120,7 +114,6 @@ EDA was performed to understand the dataset and identify meaningful patterns.
 - Pattern Identification
 - Insight Generation
 
----
 
 ## 📈 Results
 
@@ -130,7 +123,6 @@ The project successfully:
 - Generated meaningful healthcare insights
 - Improved understanding of emotional burden factors
 
----
 
 ## 📚 Skills Gained
 
@@ -143,7 +135,6 @@ The project successfully:
 - Exploratory Data Analysis (EDA)
 - Predictive Analytics
 
----
 
 ## 🚀 Future Enhancements
 
@@ -152,7 +143,6 @@ The project successfully:
 - Integrate real-time healthcare datasets
 - Develop interactive dashboards using Power BI
 
----
 
 ## ✅ Conclusion
 
