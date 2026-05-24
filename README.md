@@ -1,7 +1,5 @@
 # 🩺 Predicting Diabetic Distress and Emotional Burden in Type-2 Diabetes
 
----
-
 ## 📌 Project Overview
 
 This project focuses on predicting diabetic distress and emotional burden in patients with Type-2 Diabetes using Machine Learning and Data Analytics techniques.
